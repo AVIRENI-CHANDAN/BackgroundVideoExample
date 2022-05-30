@@ -1,3 +1,18 @@
+<a href="https://github.com/AVIRENI-CHANDAN">
+  <img src="https://shields.io/badge/%20-Avireni%20Chandan-black?logo=github&style=for-the-badge"/>
+</a>
+<a href="#">
+  <img src="https://shields.io/badge/%20-html-black?logo=html5&style=for-the-badge" alt="Image err"/>
+</a>
+<a href="#">
+  <img src="https://shields.io/badge/%20-css-black?logo=css3&logoColor=blue&style=for-the-badge" alt="Image err"/>
+</a>
+<a href="#">
+  <img src="https://shields.io/badge/%20-Javascript-black?logo=javascript&style=for-the-badge" alt="Image err"/>
+</a>
+
+---
+
 > <a href="https://kalistark-travellersite.herokuapp.com/"> Link to the website deployed in Heroku </a>
 
 # BackgroundVideoExample
