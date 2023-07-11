@@ -11,9 +11,13 @@
   <img src="https://shields.io/badge/%20-Javascript-black?logo=javascript&style=for-the-badge" alt="Image err"/>
 </a>
 
+<a href="#">
+  <img src="https://shields.io/badge/%20-render-black?logo=render&style=for-the-badge" alt="Image err"/>
+</a>
+
 ---
 
-> <a href="https://kalistark-travellersite.herokuapp.com/"> Link to the website deployed in Heroku </a>
+> <a href="https://traveller-269z.onrender.com/"> Link to the website deployed in Render </a>
 
 # BackgroundVideoExample
 This is a page purely based on a background as video with video color enhancement to make it look pretty
